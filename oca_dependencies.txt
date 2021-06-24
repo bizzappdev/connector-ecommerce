@@ -1,5 +1,5 @@
 connector
 e-commerce
-sale-workflow
+sale-workflow https://github.com/forgeflow/sale-workflow 13.0-merges
 bank-payment
 server-tools
